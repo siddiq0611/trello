@@ -23,7 +23,7 @@ const Navbar = () => {
           </svg>
         </div>
         <span className="font-display font-bold text-slate-900 text-lg tracking-tight">
-          Kanflow
+          trello
         </span>
       </Link>
 

@@ -44,7 +44,7 @@ const LoginPage = () => {
             </svg>
           </div>
           <h1 className="font-display font-bold text-4xl text-slate-900 tracking-tight mb-2">
-            Kanflow
+            trello
           </h1>
           <p className="text-slate-500 font-body text-base">
             Visual task management, redefined.
