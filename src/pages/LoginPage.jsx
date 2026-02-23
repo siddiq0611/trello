@@ -47,13 +47,13 @@ const LoginPage = () => {
             trello
           </h1>
           <p className="text-slate-500 font-body text-base">
-            Visual task management, redefined.
+            Visual task management
           </p>
         </div>
 
         <div className="bg-white border border-slate-200 rounded-2xl p-8 shadow-xl shadow-slate-200/80">
           <h2 className="font-display font-semibold text-slate-900 text-xl mb-2">
-            Welcome back
+            Welcome
           </h2>
           <p className="text-slate-500 font-body text-sm mb-6">
             Sign in to access your boards and start organizing.
