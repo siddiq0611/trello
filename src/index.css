@@ -53,7 +53,6 @@
   color-scheme: dark;
 }
 
-/* Custom scrollbar for board lists */
 .overflow-x-auto::-webkit-scrollbar {
   height: 8px;
 }
