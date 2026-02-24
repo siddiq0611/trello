@@ -58,7 +58,7 @@ const AddCard = ({ listId, boardId, nextOrder }) => {
         value={title}
         onChange={(e) => setTitle(e.target.value)}
         onKeyDown={handleKey}
-        placeholder="Card title..."
+        placeholder="description..."
         rows={2}
         className="w-full bg-white border border-slate-300 focus:border-indigo-400 rounded-lg p-2 text-slate-800 font-body text-sm outline-none resize-none placeholder-slate-400 transition-colors shadow-sm"
       />
